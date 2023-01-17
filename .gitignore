@@ -5,6 +5,7 @@ grammar
 main.c 
 wp
 example/
+README.md
 
 
 # Prerequisites
